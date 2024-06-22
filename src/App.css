@@ -1,0 +1,27 @@
+
+.exchange-container {
+  display: flex;
+}
+
+.exchange {
+  margin-right: 10px;
+}
+
+.chapter-container {
+  display: inline-block;
+}
+
+.chapter-title {
+  margin-right: 10px;
+}
+.chapter-filter {
+  margin-right: 10px;
+}
+
+.chapter-content {
+  display: inline-block;
+}
+
+.yandex-product-title {
+  margin-right: 10px;
+}
